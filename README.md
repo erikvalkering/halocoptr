@@ -9,7 +9,7 @@ Standards-conforming coroutine-based smart pointer library
  |_| |_|\__,_|_|\___/ \___\___/| .__/ \__|_|   
                                |_|             
 _______
- coptr-->
+ coptr->
   ~^~
 ```
 
