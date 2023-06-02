@@ -1,7 +1,7 @@
 # halocoptr
 Standards-conforming coroutine-based smart pointer library
 
-
+```
   _   _       _                       _        
  | | | | __ _| | ___   ___ ___  _ __ | |_ _ __ 
  | |_| |/ _` | |/ _ \ / __/ _ \| '_ \| __| '__|
@@ -11,6 +11,7 @@ Standards-conforming coroutine-based smart pointer library
 _______
  coptr-->
   ~^~
+```
 
 ## TODO
 - [ ] Standards-conforming
